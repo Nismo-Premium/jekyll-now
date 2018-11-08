@@ -3,7 +3,7 @@ layout: post
 title: Nissan GTR
 ---
 
-![Nissan Gtr](images/nissan.jpg)
+![Nissan Gtr](/images/nissan.jpg)
 
 ## Model
 
