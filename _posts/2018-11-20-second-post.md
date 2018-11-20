@@ -1,6 +1,6 @@
 ---
-layout:post
-Title: Nissan Gtr
+layout: post
+title: Nissan Gtr
 ---
 
 ![Nissan Gtr](/images/nissan.jpg)
