@@ -3,7 +3,7 @@ layout: post
 title: Nissan Gtr
 ---
 
-![Nissan Gtr](/images/kibertywalk.jpg)
+![Nissan Gtr](/images/libertywalk.jpg)
 
 ## Modifying
 
