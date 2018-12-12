@@ -8,4 +8,4 @@ title: Nissan GTR
 
 The combination of KW’s latest advanced low friction, pressure-resistant twin-tube damping technology, with unique specifications for damping and linear spring rates provide the ultimate in quality, performance, and durability. 
 
-More about suspension kits [here](http://www.greddy.com/products/suspension/greddy-kw/)
+More about kits [here](https://github.com/Nismo-Premium/nismo-premium.github.io/blob/master/_posts/2018-11-20-modifying.md)
